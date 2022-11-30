@@ -55,7 +55,6 @@ if (!array_key_exists($seccion, $vistas_usuario)) {
 </head>
 
 <body class="d-flex flex-column min-vh-100">
-  <h1 class="d-none">LEFETECH - Parcial 1 - Programación II</h1>
   <nav class="navbar navbar-expand-lg fixed-top bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.php?sec=home">
